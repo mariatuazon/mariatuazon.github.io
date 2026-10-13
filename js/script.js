@@ -87,7 +87,7 @@ async function loadGitHubRepos() {
     const repoList = document.getElementById("github-repos");
     const username = "YOUR_USERNAME";
 
-    if (!username || username === "YOUR_USERNAME") {
+    if (!username || username === "mariatuazon369-dotcom") {
         repoList.textContent =
             "Add your GitHub username in js/script.js to display your repositories.";
         return;
