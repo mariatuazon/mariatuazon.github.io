@@ -178,7 +178,7 @@ function setupContactForm() {
 
         // This is a demonstration form, not a real email service.
         status.textContent =
-            "Thank you, " + "! Your form was submitted successfully.";
+            "Thank you!,Your form was submitted successfully.";
 
         form.reset();
     });
