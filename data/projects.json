@@ -5,23 +5,27 @@
     "description": "A personal website introducing me, my skills, my education, and my projects.",
     "technologies": ["HTML", "CSS", "JavaScript"],
     "role": "Designer and Developer",
-    "screenshot": "images/portfolio.png",
-    "link": "https://mariatuazon.github.io/"
+    "screenshot": "portfolio.png",
+    "github": "https://github.com/mariatuazon/mariatuazon.github.io",
+    "demo": ""
+    
   },
   {
     "title": "Java Student Grade Calculator",
     "description": "A practice program that calculates student grades and displays the result.",
     "technologies": ["Java"],
-    "role": "Student Programmer",
+    "role": "Programmer",
     "screenshot": "images/grade-calculator.png",
-    "link": "https://mariatuazon.github.io/"
+    "link":"https://github.com/mariatuazon/mariatuazon.github.io",
+    "demo": ""
   },
   {
     "title": "Simple Database Management",
     "description": "A practice project for organizing records and learning database fundamentals.",
     "technologies": ["MySQL", "Database Design"],
     "role": "Student Developer",
-    "screenshot": "images/database-project.png",
-    "link": "https://mariatuazon.github.io/"
+    "screenshot": "database-project.png",
+    "github" : "https://github.com/mariatuazon/mariatuazon.github.io",
+    "demo": ""
   }
 ]
