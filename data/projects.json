@@ -6,7 +6,7 @@
     "technologies": ["HTML", "CSS", "JavaScript"],
     "role": "Designer and Developer",
     "screenshot": "images/portfolio.png",
-    "link": "https://github.com/YOUR_USERNAME/YOUR_REPOSITORY"
+    "link": "https://mariatuazon.github.io/"
   },
   {
     "title": "Java Student Grade Calculator",
@@ -14,7 +14,7 @@
     "technologies": ["Java"],
     "role": "Student Programmer",
     "screenshot": "images/grade-calculator.png",
-    "link": "https://github.com/YOUR_USERNAME/YOUR_REPOSITORY"
+    "link": "https://mariatuazon.github.io/"
   },
   {
     "title": "Simple Database Management",
@@ -22,6 +22,6 @@
     "technologies": ["MySQL", "Database Design"],
     "role": "Student Developer",
     "screenshot": "images/database-project.png",
-    "link": "https://github.com/YOUR_USERNAME/YOUR_REPOSITORY"
+    "link": "https://mariatuazon.github.io/"
   }
 ]
