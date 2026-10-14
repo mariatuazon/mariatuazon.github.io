@@ -1,0 +1,27 @@
+
+[
+  {
+    "title": "Student Portfolio Website",
+    "description": "A website showcasing my profile, education, and skills.",
+    "technologies": ["HTML", "CSS", "JavaScript"],
+    "role": "Designer and Developer",
+    "screenshot": "",
+    "link": "https://github.com/mariatuazon369-dotcom/mariatuazon369-dotcom.github.io"
+  },
+  {
+    "title": "Java Programming Project",
+    "description": "A Java program created for my programming practice.",
+    "technologies": ["Java"],
+    "role": "Student Programmer",
+    "screenshot": "",
+    "link": "https://github.com/mariatuazon369-dotcom"
+  },
+  {
+    "title": "Database Management Project",
+    "description": "A project for learning database organization and management.",
+    "technologies": ["MySQL"],
+    "role": "Student Developer",
+    "screenshot": "",
+    "link": "https://github.com/mariatuazon369-dotcom"
+  }
+]
