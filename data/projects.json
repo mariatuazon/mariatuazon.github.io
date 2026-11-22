@@ -27,5 +27,15 @@
     "screenshot": "database-project.png",
     "github" : "https://github.com/mariatuazon/mariatuazon.github.io",
     "demo": ""
+  },
+  {
+   "title": "Small Store Inventory Management App",
+    "description": "A mobile inventory management application developed using FlutterFlow and Supabase for managing store products and inventory records.",
+    "technologies": [
+      "FlutterFlow",
+      "Supabase"
+    ],
+    "role": "Student Developer",
+    "link": "https://small-store-inventory-xy3ed2.flutterflow.app"
   }
 ]
