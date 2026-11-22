@@ -30,10 +30,10 @@
   },
   {
    "title": "Small Store Inventory Management App",
-    "description": "A mobile inventory management application developed using FlutterFlow and Supabase for managing store products and inventory records.",
+    "description": "A mobile inventory management application developed using FlutterFlow and Firebase Firestore to manage store products and inventory records.",
     "technologies": [
       "FlutterFlow",
-      "Supabase"
+      "Firebase Firestore"
     ],
     "role": "Student Developer",
     "link": "https://small-store-inventory-xy3ed2.flutterflow.app"
